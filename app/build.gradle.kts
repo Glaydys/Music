@@ -4,6 +4,7 @@ plugins {
 
 }
 
+
 android {
     namespace = "com.example.musicapp"
     compileSdk = 34
